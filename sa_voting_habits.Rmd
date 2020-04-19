@@ -45,6 +45,10 @@ voter_behaviour <-
 voter_behaviour
 ```
 
+```{r}
+# write_csv(voter_behaviour, "sa_voting_habits.csv")
+```
+
 
 ```{r}
 voter_behaviour %>%
